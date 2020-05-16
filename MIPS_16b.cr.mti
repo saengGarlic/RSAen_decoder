@@ -1,0 +1,41 @@
+D:/JEONG/3-1/verilog_assignment/projectfinal/ALU.v {1 {vlog -work work -stats=none {D:\JEONG\3-1\verilog_assignment\projectfinal\ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/JEONG/3-1/verilog_assignment/projectfinal/mux_param.v {1 {vlog -work work -stats=none {D:\JEONG\3-1\verilog_assignment\projectfinal\mux_param.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_param
+
+Top level modules:
+	mux_param
+
+} {} {}} D:/JEONG/3-1/verilog_assignment/projectfinal/PC.v {0 {vlog -work work -stats=none {D:\JEONG\3-1\verilog_assignment\projectfinal\PC.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+** Error: (vlog-13069) D:\JEONG\3-1\verilog_assignment\projectfinal\PC.v(3): near "input": syntax error, unexpected input, expecting ')'.
+
+
+} {4.0 5.0} {}} D:/JEONG/3-1/verilog_assignment/projectfinal/MIPS_top.v {0 {vlog -work work -stats=none {D:\JEONG\3-1\verilog_assignment\projectfinal\MIPS_top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS_top
+** Error: (vlog-13069) D:\JEONG\3-1\verilog_assignment\projectfinal\MIPS_top.v(3): near "EOF": syntax error, unexpected end of source code, expecting ')'.
+
+
+} {4.0 5.0} {}} D:/JEONG/3-1/verilog_assignment/projectfinal/control_unit.v {1 {vlog -work work -stats=none {D:\JEONG\3-1\verilog_assignment\projectfinal\control_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} D:/JEONG/3-1/verilog_assignment/projectfinal/register.v {1 {vlog -work work -stats=none {D:\JEONG\3-1\verilog_assignment\projectfinal\register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}}

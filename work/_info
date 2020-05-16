@@ -1,0 +1,287 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/JEONG/3-1/verilog_assignment/exercise
+vALU
+Z0 !s110 1577718675
+!i10b 1
+!s100 ^d4dK?2L:_d?FK;ciXCCJ2
+I^]:4biF_ZiZ:?iG@FLjGD1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/JEONG/3-1/verilog_assignment/projectfinal
+w1577718168
+8D:\JEONG\3-1\verilog_assignment\projectfinal\ALU.v
+FD:\JEONG\3-1\verilog_assignment\projectfinal\ALU.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1577718675.000000
+!s107 D:\JEONG\3-1\verilog_assignment\projectfinal\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\ALU.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vcontrol_unit
+Z6 !s110 1577718674
+!i10b 1
+!s100 4MUKnbgKZz3lQ1SP;d7SX3
+IY^C:`;]g1R2=YYlGKdGg00
+R1
+R2
+w1577718137
+8D:\JEONG\3-1\verilog_assignment\projectfinal\control_unit.v
+FD:\JEONG\3-1\verilog_assignment\projectfinal\control_unit.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1577718674.000000
+!s107 D:\JEONG\3-1\verilog_assignment\projectfinal\control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\control_unit.v|
+!s101 -O0
+!i113 1
+R5
+vd_finder
+Z8 !s110 1575800958
+!i10b 1
+!s100 IM<LXcEA`X<OEn4nNk<SM0
+I87KUkkkc?b1P0TZDHb26n2
+R1
+R2
+w1575771457
+8D:/JEONG/3-1/verilog_assignment/projectfinal/d_finder.v
+FD:/JEONG/3-1/verilog_assignment/projectfinal/d_finder.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1575800958.000000
+!s107 D:/JEONG/3-1/verilog_assignment/projectfinal/d_finder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/JEONG/3-1/verilog_assignment/projectfinal/d_finder.v|
+!s101 -O0
+!i113 1
+R5
+vdata_memory
+R6
+!i10b 1
+!s100 AcS=ji0SV:O^;TQR8Y=8B3
+I7:Q69kz0aB@4BJ0g[bNO00
+R1
+R2
+w1577718409
+8D:\JEONG\3-1\verilog_assignment\projectfinal\data_memory.v
+FD:\JEONG\3-1\verilog_assignment\projectfinal\data_memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:\JEONG\3-1\verilog_assignment\projectfinal\data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\data_memory.v|
+!s101 -O0
+!i113 1
+R5
+ven_decoder_RSA
+R8
+!i10b 1
+!s100 T=fYHE5n]Xj`B6jeE8;803
+Ic7GiikXc25I^SHkzEcKXd0
+R1
+R2
+w1575771384
+8D:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder.v
+FD:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder.v|
+!s101 -O0
+!i113 1
+R5
+nen_decoder_@r@s@a
+vfile_processor
+R8
+!i10b 1
+!s100 a77=giXg9j^Ih4fBT7[Io3
+IK5naP^48dTgVMNh<W4hYJ3
+R1
+R2
+w1575800947
+8D:/JEONG/3-1/verilog_assignment/projectfinal/file_processor.v
+FD:/JEONG/3-1/verilog_assignment/projectfinal/file_processor.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/JEONG/3-1/verilog_assignment/projectfinal/file_processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/JEONG/3-1/verilog_assignment/projectfinal/file_processor.v|
+!s101 -O0
+!i113 1
+R5
+vinstruction_memory
+R6
+!i10b 1
+!s100 _Ek;3mNg<F69o@hbm?jVz2
+I[f2WALD7keGnc6>h6`m6K2
+R1
+R2
+w1577718391
+8D:\JEONG\3-1\verilog_assignment\projectfinal\instruction_memory.v
+FD:\JEONG\3-1\verilog_assignment\projectfinal\instruction_memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:\JEONG\3-1\verilog_assignment\projectfinal\instruction_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\instruction_memory.v|
+!s101 -O0
+!i113 1
+R5
+vmux
+!s110 1577716215
+!i10b 1
+!s100 oCOa@df:m?NYEJ[nQfBTO3
+I1_mzb:9`9=RBIU4d1_CZZ3
+R1
+R2
+w1577702613
+Z10 8D:\JEONG\3-1\verilog_assignment\projectfinal\mux_param.v
+Z11 FD:\JEONG\3-1\verilog_assignment\projectfinal\mux_param.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1577716215.000000
+Z12 !s107 D:\JEONG\3-1\verilog_assignment\projectfinal\mux_param.v|
+Z13 !s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\mux_param.v|
+!s101 -O0
+!i113 1
+R5
+vmux_param
+R6
+!i10b 1
+!s100 555SQ8gcmW;1Wb;@7=Fl53
+IzbV1i6dAhf24Nl;83]93J1
+R1
+R2
+w1577716853
+R10
+R11
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+R12
+R13
+!s101 -O0
+!i113 1
+R5
+vPC
+R0
+!i10b 1
+!s100 _49XQ237>S<2UA>67N`5m1
+ID^<6bVBfWSaHRUZRdP7BY3
+R1
+R2
+w1577718671
+8D:\JEONG\3-1\verilog_assignment\projectfinal\PC.v
+FD:\JEONG\3-1\verilog_assignment\projectfinal\PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\JEONG\3-1\verilog_assignment\projectfinal\PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\PC.v|
+!s101 -O0
+!i113 1
+R5
+n@p@c
+vregister
+R6
+!i10b 1
+!s100 A?kG9Tnnimd9mnoKVUBN`0
+IA23MWG4Y9[JcH@^l7TAMS3
+R1
+R2
+w1577718144
+8D:\JEONG\3-1\verilog_assignment\projectfinal\register.v
+FD:\JEONG\3-1\verilog_assignment\projectfinal\register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:\JEONG\3-1\verilog_assignment\projectfinal\register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\JEONG\3-1\verilog_assignment\projectfinal\register.v|
+!s101 -O0
+!i113 1
+R5
+vtb
+R8
+!i10b 1
+!s100 H;==J>RzbYE]]PWfLGnG92
+Io73BM[dld;N@4fM2ME6i20
+R1
+R2
+w1575725733
+8D:/JEONG/3-1/verilog_assignment/projectfinal/tb.v
+FD:/JEONG/3-1/verilog_assignment/projectfinal/tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/JEONG/3-1/verilog_assignment/projectfinal/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/JEONG/3-1/verilog_assignment/projectfinal/tb.v|
+!s101 -O0
+!i113 1
+R5
+vtest_RSA
+R8
+!i10b 1
+!s100 gY^j8G[lmj5X:Wf@z@Lga2
+INYJ;jQbOI;PNZ[zWhl^i43
+R1
+R2
+w1575718177
+8D:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder_newencryptor.v
+FD:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder_newencryptor.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder_newencryptor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/JEONG/3-1/verilog_assignment/projectfinal/RSA_encoder_newencryptor.v|
+!s101 -O0
+!i113 1
+R5
+ntest_@r@s@a
